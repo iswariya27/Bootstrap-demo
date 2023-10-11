@@ -1,0 +1,17 @@
+a{
+    text-decoration: underline !important;
+}
+.fa{
+    color: blue;
+}
+.box{
+    background-color: rgba(185, 182, 182, 0.774);
+    text-align: center;
+    padding: 50px 150px 50px 150px;
+    width: 30px 30px 30px 30px;
+}
+.box1-body{
+    background-color: white;
+    margin: 15px;
+    padding: 20px;
+}
